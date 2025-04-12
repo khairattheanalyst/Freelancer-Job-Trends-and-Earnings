@@ -2,13 +2,16 @@
 
 **INTRODUCTION**
 
-**What if Data Could Help Freelancers Choose Smarter and Earn Better? **
+What if Data Could Help Freelancers Choose Smarter and Earn Better?
+
 Meet Bolu, a skilled graphic designer navigating the world of freelancing. She’s considering switching platforms, curious whether her talents would earn her more revenue elsewhere. But with so many options, job categories, and global clients, she’s unsure where she fits best. This project was created to answer questions for freelancers like Bolu, Recruiters and Hiring Managers. By analyzing job categories, platform trends, earnings, success rates, and regional demand, this project tells the story, starting with Bolu who just wants to grow. 
 
 **INDUSTRY TYPE OF DATA**
+
 This project falls under the Tech and Digital Workforce Analytics industry, focusing on trends and performance within the freelance and gig economy.
 
 **STAKEHOLDERS OF THE PROJECT**
+
 Freelancers, Job Seekers, Recruiters and Hiring Managers.
 
 **STEPS TAKEN TO CLEAN THE DATA**
@@ -25,41 +28,38 @@ To identify patterns and trends from this dataset effectively, I applied Excel b
 2. Conditional Formatting helped highlight patterns and outliers across key metrics such as earnings, success rates, and marketing spend, making important data points stand out visually.
 3. Charts and Visualizations (including bar charts, column charts, and pie charts) were created to visualize insights clearly and effectively, enabling comparisons across job categories, regions, experience levels, and platforms.
 
- 
-
-PROBLEMS BEING ADRESSED
+**PROBLEMS BEING ADRESSED**
 
 The objective of this analysis is to address the following key research questions:
 
-Which job category generates the most earnings and has the highest success rates?
-Which freelance platform generates the most earnings?
-Which job categories have the most jobs completed?
-Which region has the most jobs demand and pays well?
-Which freelance platforms have the most marketing spend?
-Which job category makes the most money hourly?
-How does level of experience affect earnings?
-What is the average rating trend by job category?
-Which freelance platforms have the most jobs completed?
+1. Which job category generates the most earnings and has the highest success rates?
+2. Which freelance platform generates the most earnings?
+3. Which job categories have the most jobs completed?
+4. Which region has the most jobs demand and pays well?
+5. Which freelance platforms have the most marketing spend?
+6. Which job category makes the most money hourly?
+7. How does level of experience affect earnings?
+8. What is the average rating trend by job category?
+9. Which freelance platforms have the most jobs completed?
  
+**NOTABLE TRENDS AND PATTERNS**
 
-NOTABLE TRENDS AND PATTERNS
+**KEY METRICS**
 
-KEY METRICS
-
-Graphics design job category has the highest freelance earnings in USD with a sum total of $1,361,271.
-The SEO job category has the least freelance earnings in USD with a sum total of $1,108,528.
-Upwork Platform generated the highest freelance earnings with a sum total of $2,112,162.
-PeoplePerHour Platform generated the least freelance earnings with a sum total of $1,801,020.
-Freelancers with an intermediate level of experience earns the most USD with an average of $5,268.
-Freelancers with an expert level of experience earns the least USD with an average of $4,856.
-The Web development freelance category completed the most jobs with a total of  39,262 jobs completed.
-The content writing freelance category completed the least jobs with a total of 33,748 jobs.
-Australia is the region with the clients that pays the most earnings for freelancers with a total sum of $1,479,897.
-Europe is the region with the clients that pays the least revenue for freelancers with a total sum of $1,281,319.
-Upwork invested the most USD for platform promotions with a total sum of $103,355.
-PeoplePerHour invested the least USD for platform promotions with a total sum of $88,047.
-The most preferred method of payment by clients is the Crypto method with a total count of 514 times.
-The least preferred method of payment by clients is the Paypal method with a total count of 466 times.
+1. Graphics design job category has the highest freelance earnings in USD with a sum total of $1,361,271.
+2. The SEO job category has the least freelance earnings in USD with a sum total of $1,108,528.
+3. Upwork Platform generated the highest freelance earnings with a sum total of $2,112,162.
+4. PeoplePerHour Platform generated the least freelance earnings with a sum total of $1,801,020.
+5. Freelancers with an intermediate level of experience earns the most USD with an average of $5,268.
+6. Freelancers with an expert level of experience earns the least USD with an average of $4,856.
+7. The Web development freelance category completed the most jobs with a total of  39,262 jobs completed.
+8. The content writing freelance category completed the least jobs with a total of 33,748 jobs.
+9. Australia is the region with the clients that pays the most earnings for freelancers with a total sum of $1,479,897.
+10. Europe is the region with the clients that pays the least revenue for freelancers with a total sum of $1,281,319.
+11. Upwork invested the most USD for platform promotions with a total sum of $103,355.
+12. PeoplePerHour invested the least USD for platform promotions with a total sum of $88,047.
+13. The most preferred method of payment by clients is the Crypto method with a total count of 514 times.
+14. The least preferred method of payment by clients is the Paypal method with a total count of 466 times.
  
 
 Data-Driven Recommendations for Growth
