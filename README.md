@@ -1,41 +1,29 @@
-INTRODUCTION
+![Freelancer Earnings   Job Trends Dashbboard](https://github.com/user-attachments/assets/912e4b36-7641-4c29-b9bd-b2dacadbdda6)
 
-What if Data Could Help Freelancers Choose Smarter and Earn Better? 
+**INTRODUCTION**
 
+**What if Data Could Help Freelancers Choose Smarter and Earn Better? **
 Meet Bolu, a skilled graphic designer navigating the world of freelancing. She’s considering switching platforms, curious whether her talents would earn her more revenue elsewhere. But with so many options, job categories, and global clients, she’s unsure where she fits best. This project was created to answer questions for freelancers like Bolu, Recruiters and Hiring Managers. By analyzing job categories, platform trends, earnings, success rates, and regional demand, this project tells the story, starting with Bolu who just wants to grow. 
 
- 
-
-INDUSTRY TYPE OF DATA
-
+**INDUSTRY TYPE OF DATA**
 This project falls under the Tech and Digital Workforce Analytics industry, focusing on trends and performance within the freelance and gig economy.
 
- 
-
-STAKEHOLDERS OF THE PROJECT
-
+**STAKEHOLDERS OF THE PROJECT**
 Freelancers, Job Seekers, Recruiters and Hiring Managers.
 
+**STEPS TAKEN TO CLEAN THE DATA**
+1. I observed the dataset and made sure to remove duplicate entries from the data values to avoid inaccurate insights and decisions.
+2. I identified and addressed missing values by filling them in with the appropriate values and I removed blank rows where necessary.
+3. I standardized the currency values to USD. I also ensured consistency in the numerical values and text fields.
+4. I put the dataset in a standard excel table and I applied conditional formatting to highlight quick trends in earnings and marketing spend.
+5. I made sure to use accessible fonts and colors to make the dataset more visually appealing.
  
-
-STEPS TAKEN TO CLEAN THE DATA
-
-I observed the dataset and made sure to remove duplicate entries from the data values to avoid inaccurate insights and decisions.
-I identified and addressed missing values by filling them in with the appropriate values and I removed blank rows where necessary.
-I standardized the currency values to USD. I also ensured consistency in the numerical values and text fields.
-I put the dataset in a standard excel table and I applied conditional formatting to highlight quick trends in earnings and marketing spend.
-I made sure to use accessible fonts and colors to make the dataset more visually appealing.
- 
-
-METHODOLOGIES
-
+**METHODOLOGIES**
 To identify patterns and trends from this dataset effectively, I applied Excel based data analysis techniques:
 
-Pivot Tables were used to organize, group, and summarize large volumes of data, allowing for quick insights into earnings, job completion rates, and platform trends.
-
-Conditional Formatting helped highlight patterns and outliers across key metrics such as earnings, success rates, and marketing spend, making important data points stand out visually.
-
-Charts and Visualizations (including bar charts, column charts, and pie charts) were created to visualize insights clearly and effectively, enabling comparisons across job categories, regions, experience levels, and platforms.
+1. Pivot Tables were used to organize, group, and summarize large volumes of data, allowing for quick insights into earnings, job completion rates, and platform trends.
+2. Conditional Formatting helped highlight patterns and outliers across key metrics such as earnings, success rates, and marketing spend, making important data points stand out visually.
+3. Charts and Visualizations (including bar charts, column charts, and pie charts) were created to visualize insights clearly and effectively, enabling comparisons across job categories, regions, experience levels, and platforms.
 
  
 
