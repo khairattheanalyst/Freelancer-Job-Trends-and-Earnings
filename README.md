@@ -22,6 +22,7 @@ Freelancers, Job Seekers, Recruiters and Hiring Managers.
 5. I made sure to use accessible fonts and colors to make the dataset more visually appealing.
  
 **METHODOLOGIES**
+
 To identify patterns and trends from this dataset effectively, I applied Excel based data analysis techniques:
 
 1. Pivot Tables were used to organize, group, and summarize large volumes of data, allowing for quick insights into earnings, job completion rates, and platform trends.
@@ -61,29 +62,28 @@ The objective of this analysis is to address the following key research question
 13. The most preferred method of payment by clients is the Crypto method with a total count of 514 times.
 14. The least preferred method of payment by clients is the Paypal method with a total count of 466 times.
  
+**Data-Driven Recommendations for Growth**
 
-Data-Driven Recommendations for Growth
-
-Freelancers should focus on developing skills that are in demand, Graphics Design, App Development, Customer Support, to maximize earnings.
-Freelance platforms can enhance visibility and marketing efforts for lower earning job categories including SEO and Digital Marketing as there is not enough effort to show clients that these jobs exist.
-Hiring managers can invest in freelancers in high earnings job categories in order to have a competitive edge and for quality work.
-Freelancers should target high paying regions like Australia, Asia, USA, in order to earn more revenue.
-Hiring managers from low paying regions including Canada and Europe should consider competitive pricing strategies in order to attract top freelance talents.
-Freelancers with a beginner level of experience should continue to upskill regardless of if they are earning better than the expert level freelancers. This will help to sustain maximum earnings overtime.
-Intermediate level of experience freelancers can level their earnings potential by negotiating for better rates since they are more in demand than other levels of experience.
-Expert level of experience freelancers can boost their income by differentiating their values through specialized services.
-Freelancers should prioritize high earning platforms like upwork and fiverr for better income opportunities.
-Freelance platforms with lower earnings like peopleperhour can invest more in their marketing spend.
-Hiring managers should consider sourcing talent from top-earning platforms like upwork and fiverr, as they likely attract a wider pool of skilled freelancers with proven success rates.
-Freelancers should consider platforms that heavily invest in marketing, as they are more likely to attract high-quality clients and more job opportunities.
-Platforms should analyze Upwork and Toptal marketing strategies to understand what makes their investments effective and apply similar tactics.
-Freelance Platforms should consider expanding support for cryptocurrency payments, given its high preference among clients.
-Freelancers looking to attract more clients should also ensure that they can accept cryptocurrency payments, as it is the most preferred method.
-Freelancers that are seeking higher job availability should consider Web Development and Graphics Design, as they have the highest number of completed projects.
-Freelance Platforms should focus on improving resources and support for Content Writing and Data Entry categories, which have fewer completed projects, to attract more freelancers and clients.
+1. Freelancers should focus on developing skills that are in demand, Graphics Design, App Development, Customer Support, to maximize earnings.
+2. Freelance platforms can enhance visibility and marketing efforts for lower earning job categories including SEO and Digital Marketing as there is not enough effort to show clients that these jobs exist.
+3. Hiring managers can invest in freelancers in high earnings job categories in order to have a competitive edge and for quality work.
+4. Freelancers should target high paying regions like Australia, Asia, USA, in order to earn more revenue.
+5. Hiring managers from low paying regions including Canada and Europe should consider competitive pricing strategies in order to attract top freelance talents.
+6. Freelancers with a beginner level of experience should continue to upskill regardless of if they are earning better than the expert level freelancers. This will help to sustain maximum earnings overtime.
+7. Intermediate level of experience freelancers can level their earnings potential by negotiating for better rates since they are more in demand than other levels of experience.
+8. Expert level of experience freelancers can boost their income by differentiating their values through specialized services.
+9. Freelancers should prioritize high earning platforms like upwork and fiverr for better income opportunities.
+10. Freelance platforms with lower earnings like peopleperhour can invest more in their marketing spend.
+11. Hiring managers should consider sourcing talent from top-earning platforms like upwork and fiverr, as they likely attract a wider pool of skilled freelancers with proven success rates.
+12. Freelancers should consider platforms that heavily invest in marketing, as they are more likely to attract high-quality clients and more job opportunities.
+13. Platforms should analyze Upwork and Toptal marketing strategies to understand what makes their investments effective and apply similar tactics.
+14. Freelance Platforms should consider expanding support for cryptocurrency payments, given its high preference among clients.
+15. Freelancers looking to attract more clients should also ensure that they can accept cryptocurrency payments, as it is the most preferred method.
+16. Freelancers that are seeking higher job availability should consider Web Development and Graphics Design, as they have the highest number of completed projects.
+17. Freelance Platforms should focus on improving resources and support for Content Writing and Data Entry categories, which have fewer completed projects, to attract more freelancers and clients.
  
 
-Conclusion
+**Conclusion**
 
 Freelancing offers freedom, but it also comes with tough choices, where to work, what to charge, and how to grow. Through this analysis, I explored the freelance landscape across platforms, job categories, regions, and experience levels, identifying patterns that shape earnings and opportunities in the digital workforce.
 
